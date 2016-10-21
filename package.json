@@ -1,0 +1,25 @@
+{
+  "name": "completeit",
+  "version": "1.0.0",
+  "description": "\u0016A simple to use, powerful, decentralised, open source task manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logiclogue/completeit.git"
+  },
+  "author": "Jordan Lord",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/logiclogue/completeit/issues"
+  },
+  "homepage": "https://github.com/logiclogue/completeit#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "chai": "^3.5.0",
+    "express": "^4.14.0",
+    "mocha": "^3.1.2"
+  }
+}
